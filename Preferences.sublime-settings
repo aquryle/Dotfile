@@ -1,0 +1,25 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	// 画面の右下に現在のテキストエンコーディングを表示
+	"show_encoding": true,
+	// デフォルトのエンコーディングはUTF-8
+	"default_encoding": "UTF-8",
+	// タブとかスペースを表示
+	"draw_white_space": "all",
+	// 変更したファイルのタブをハイライト
+	"highlight_modified_tabs": true,
+	// タブをスペースに置換
+    "translate_tabs_to_spaces": true,
+    // タブの表示サイズは半角4文字
+	"tab_size": 4,
+	// 文字の折り返し
+	"word_wrap": true,
+	// インデントにスペースを使う
+    "indent_using_space": true,
+    // テーマ
+	"theme": "Default.sublime-theme",
+	// 括弧やクォーテーションの自動入力
+	"auto_match_enabled": false,
+	
+}
